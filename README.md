@@ -16,25 +16,25 @@ The information recorded by the script is sorted into files that are named using
 ### Tools Used
 
 - File Operations:
-  * mv
-  * ls -1
-  * -d
+    * mv
+    * ls -1
+    * -d
 - Text Processing:
- * grep
- * sed
- * awk
- * cut
- * sort
+   * grep
+   * sed
+   * awk
+   * cut
+   * sort
 - System Monitoring & Management:
- * pgrep
- * kill
+   * pgrep
+   * kill
 - Log Management:
- * tail
- * nl
+   * tail
+   * nl
 - Control Flow:
- * for
- * while
- * if
+   * for
+   * while
+   * if
 
 ## How to use
 
