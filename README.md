@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of the **auth_log_monitor** script is to have a program that runs in the background and records all the failed login attempts are show up in the /var/log/auth.log file.
+The objective of the **auth_log_monitor** script is to have a program that runs in the background and records all the failed login attempts that show up in the /var/log/auth.log file.
 The information recorded by the script is sorted into files that are named using the IP address from which the failed login attempts were occuring, each file contains all the failed attempts from the specific IP address.
 
 
